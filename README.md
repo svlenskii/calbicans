@@ -1,1 +1,3 @@
-# calbicans
+# Exploring virome of fungal pathogens: insights from the public transcriptomic data of C. albicans
+
+Fungal infections, especially those caused by Candida albicans, are a serious health concern. While much research has explored C. albicans' genetics and gene activity, little attention has been paid to its virome. This paper sets out to analyze C. albicans' virome using existing sequencing data. By doing so, we uncover various viral elements interacting with the fungus and shed light on their impact. Our findings reveal a diverse virome alongside C. albicans. This research expands our understanding of C. albicans' virome and lays the groundwork for further exploration into how fungi and viruses interact. These insights could lead to innovative treatments for fungal infections.
