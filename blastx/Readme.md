@@ -1,6 +1,7 @@
-# Results of the blastx analysis for 11 "virus-positive" SRA Runs in PRJNA799757
+# Results of the blastx analysis
 
-This directory contains the results of blastx analysis for the de-novo assembled contigs after removing host reads in 11 SRA Runs.
+This directory contains the results of blastx analysis for 11 "virus-positive" SRA Runs in PRJNA799757.
+For each SRA Run, we de-novo assembled contigs after removing host reads and performed the blastx analysis of the contigs against the reference sequence database containing 72 virus proteins from the Serratus output.
 
 ## SRARuns_de-novocontigs_blastx.xlsx
 
