@@ -18,7 +18,7 @@ __trees__
 
 This subdirectory contains .tre files of the trees generated from .msa files using FastTree.
 
-**__Phylo_analysis.xlsx__**
+*__Phylo_analysis.xlsx__*
 
 
 This file contains a summary of the data preprocessing steps and lists of accession numbers for each family.
