@@ -1,6 +1,6 @@
 # Phylogenetic analysis
 
-This directory contains the results of a phylogenetic analysis for Totiviridae, Partitiviridae, Nodaviridae, and Dicistroviridae.
+This directory contains the results of a phylogenetic analysis for Totiviridae, Partitiviridae, Narnaviridae, and Nodaviridae.
 The reference sequences that were extracted from the Serratus output are highlighted in green.
 
 __images__
